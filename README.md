@@ -24,6 +24,8 @@ naviPack激光雷达套件暂时仅支持使用**8192cu**芯片的wifi模块。
 推荐购买(或者同类产品)：
 https://item.taobao.com/item.htm?spm=a230r.1.14.58.Z1QTOX&id=7915403646&ns=1&abbucket=17#detail
 
+09-21加入1键进入20次巡逻功能
+
 #wifi使用配置说明
 ##指令配置
 
